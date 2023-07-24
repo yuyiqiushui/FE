@@ -10,8 +10,10 @@
 # Vuex
 
 # Vue-router
+1. 博客， [轩·尘·Seven](https://www.cnblogs.com/xuanyuandai/) [vue-router源码拾遗](https://www.cnblogs.com/xuanyuandai/p/14785044.html)
 
 # pinia
+1. 掘金， [狗阿木]() , [pinia源码分析](https://juejin.cn/post/7117131804229763079)
 
 # webpack
 
